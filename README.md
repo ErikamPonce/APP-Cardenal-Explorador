@@ -17,9 +17,8 @@ Abra el archivo descargado e instale la aplicación siguiendo las instrucciones 
 
 # Uso de la aplicación
 Abra la aplicación desde su dispositivo.
-Selecciona la sección "Explorar Carreras" para aprender sobre las opciones académicas disponibles.
-Prueba la Trivia Interactiva para poner a prueba tus conocimientos.
-Acceda a la opción "Recorrido Virtual" para explorar las instalaciones de la universidad.
+Selecciona la sección de la carrera que más te guste para poner a prueba tus conocimientos.
+Acceda a la página oficial de "Cardenal Explorador" y selecciona la opción "Recorrido Virtual" para explorar las instalaciones de la universidad.
 Haz clic en el botón "Página Oficial" para visitar el sitio web de la UTTT Campus Chapulhuacán.
 
 # Requisitos
